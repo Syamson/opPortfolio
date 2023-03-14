@@ -15,12 +15,12 @@ export default function socialMedia() {
         <span></span>
       </a>
       <a
-        href={socialMediaLinks.linkedin}
-        className="icon-button linkedin"
+        href={socialMediaLinks.tiktok}
+        className="icon-button tiktok"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <i className="fab fa-linkedin-in"></i>
+        <i className="fab fa-tiktok-in"></i>
         <span></span>
       </a>
       <a
