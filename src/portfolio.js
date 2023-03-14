@@ -24,10 +24,10 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/Syamson",
-  linkedin: "https://www.linkedin.com/in//",
-  gmail: "game4funfb@gmail.com",
+  tiktok: "https://www.tiktok.com/@agamrantau",
+
   gitlab: " ",
-  facebook: " ",
+  facebook: "https://www.facebook.com/samsolfair",
   twitter: "https://twitter.com/syamraza0",
   instagram: "https://www.instagram.com/syamraza/",
 };
